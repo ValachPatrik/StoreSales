@@ -1,7 +1,7 @@
 # StoreSales
 Time Series Forecasting
 
-Source of the exersice:<br>
+Source of the exercise:<br>
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview
 
 Data sets:<br>
